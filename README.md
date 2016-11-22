@@ -12,7 +12,7 @@ A node, express and mongoose app to learn basic CRUD operations
 1.- run:
 <pre>
     <code>
-        node server.js
+        npm install
     </code>
 </pre>
 
