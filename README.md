@@ -1,4 +1,4 @@
-<b>Monday Espresso</b>
+#Monday Espresso
 A node, express and mongoose app to learn basic CRUD operations
 
 <b>Prerequisites</b>
